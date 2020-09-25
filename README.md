@@ -1,11 +1,11 @@
 # PIZZA-SHOP
 
-## Author
-* Anna Adhiambo
-* Irene Kasiva
-* Omar Hussein
+## Authors
+* Adhiambo
+* Kasiva
+* Hussein
 * Joseph Kdo
-* Davi Maina
+* Maina
 
 ## Description
 * An application that can allow someone to order any pizza of his choice.Feel free to contact the above for more information.
