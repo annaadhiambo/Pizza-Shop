@@ -1,11 +1,15 @@
-# PITCHES
+# PIZZA-SHOP
 
 ## Author
 * Anna Adhiambo
+* Irene Kasiva
+* Omar Hussein
+* Joseph Kdo
+* Davi Maina
 
 ## Description
-* An application that allows users to use that one minute wisely. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
-Here is the [Link](https://apppitch.herokuapp.com/) to my website
+* An application that can allow someone to order any pizza of his choice.Feel free to contact the above for more information.
+
 
 ## Features
 * Landing page containing wecoming message
@@ -25,7 +29,7 @@ Here is the [Link](https://apppitch.herokuapp.com/) to my website
 * contact@ annaadhiambo01@gmail.com
 
 ## How to access it 
-You can access it by cloning the [Repository](https://github.com/annaadhiambo/The-Last-Pitch.git)
+You can access it by cloning the [Repository](https://github.com/annaadhiambo/Pizza-Shop.git)
 ```
 $ Open Terminal (Ctrl Alt T)
 $ git clone link 
